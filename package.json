@@ -1,0 +1,9 @@
+{
+    "name": "teia-search-demos",
+    "version": "1.0.0",
+    "dependencies": {
+        "commander": "*",
+        "teia-search": "*"
+    },
+    "author": "João Gabriel Lima <jgabriel.ufpa@gmail.com> (http://jgabriellima.com)"
+}
